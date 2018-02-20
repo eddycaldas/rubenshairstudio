@@ -1,0 +1,7 @@
+@media screen and (min-width:576px){
+  nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+}
